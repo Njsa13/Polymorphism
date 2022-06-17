@@ -1,0 +1,7 @@
+D:\Kuliah\S2\Pemrograman\9\tugas polymerism\tugas polymerism\bin\Debug\tugas polymerism.exe.config
+D:\Kuliah\S2\Pemrograman\9\tugas polymerism\tugas polymerism\bin\Debug\tugas polymerism.exe
+D:\Kuliah\S2\Pemrograman\9\tugas polymerism\tugas polymerism\bin\Debug\tugas polymerism.pdb
+D:\Kuliah\S2\Pemrograman\9\tugas polymerism\tugas polymerism\obj\Debug\tugas polymerism.csprojAssemblyReference.cache
+D:\Kuliah\S2\Pemrograman\9\tugas polymerism\tugas polymerism\obj\Debug\tugas polymerism.csproj.CoreCompileInputs.cache
+D:\Kuliah\S2\Pemrograman\9\tugas polymerism\tugas polymerism\obj\Debug\tugas polymerism.exe
+D:\Kuliah\S2\Pemrograman\9\tugas polymerism\tugas polymerism\obj\Debug\tugas polymerism.pdb
